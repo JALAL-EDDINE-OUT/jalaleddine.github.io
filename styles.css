@@ -292,7 +292,7 @@ h1,h2,h3,h4,h5,h6{
 #sec1 #imgprof
 {
     height: 250px;
-    background: url(../Images/img.png) ;
+    background: url(img.png) ;
    background-position: center;
    background-size: 250px;
    background-repeat: no-repeat;
