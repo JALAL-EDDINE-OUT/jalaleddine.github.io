@@ -186,6 +186,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 5PX;
     padding-left: 0px;
     display: none;
+    padding-right: 50px;
     
     
 }
@@ -349,7 +350,7 @@ h1,h2,h3,h4,h5,h6{
 #sec2 div 
 {
     padding: 10px;
-    background: lightsteelblue;
+    background: #fafdffa4;
     margin: 10px;
     border-radius: 15px;
     color:black;
@@ -363,13 +364,13 @@ div h4
 }
 #sec2 div  h5
 {
-    color:#272829;
+    color:#eff3f7;
     font-weight: bolder;
 }
 #sec2 div img{
     float: right;
    width:230PX;
-    border-radius: 1%;
+    border-radius: 18px;
    
 }
 
